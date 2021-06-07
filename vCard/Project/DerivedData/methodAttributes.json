@@ -1,0 +1,50 @@
+﻿{
+	"methods": {
+		"vCard_v3_Create": {
+			"timeStamp": "2021-06-07T14:57:50.867Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"vCard_v3_escape": {
+			"timeStamp": "2021-06-07T15:10:46.226Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"TEST": {
+			"timeStamp": "2021-06-07T15:13:33.225Z"
+		},
+		"vCard_v3_escape_image": {
+			"timeStamp": "2021-06-07T15:13:04.731Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"vCard_v3_escape_collection": {
+			"timeStamp": "2021-06-07T15:10:37.288Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"(vCard_Create_thumbnail)": {
+			"timeStamp": "2021-06-07T15:01:22.560Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"(vCard_Create_icon)": {
+			"timeStamp": "2021-06-07T15:01:58.830Z",
+			"attributes": {
+				"invisible": true,
+				"publishedWeb": true,
+				"preemptive": "capable"
+			}
+		}
+	}
+}

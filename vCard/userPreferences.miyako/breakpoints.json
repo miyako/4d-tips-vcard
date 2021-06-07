@@ -1,0 +1,16 @@
+﻿[
+	{
+		"line": 1,
+		"method": {
+			"type": 1,
+			"methodName": "vCard_Create_thumbnail"
+		}
+	},
+	{
+		"line": 1,
+		"method": {
+			"type": 1,
+			"methodName": "vCard_Create_icon"
+		}
+	}
+]

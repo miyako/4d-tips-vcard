@@ -1,0 +1,44 @@
+﻿{
+	"Sources/Methods/vCard_v3_escape_image.4dm": {
+		"left": 1036,
+		"top": 503,
+		"width": 778,
+		"height": 488
+	},
+	"Sources/Methods/vCard_v3_escape_collection.4dm": {
+		"left": 1036,
+		"top": 503,
+		"width": 778,
+		"height": 488
+	},
+	"Sources/Methods/vCard_v3_escape.4dm": {
+		"left": 1036,
+		"top": 503,
+		"width": 778,
+		"height": 488
+	},
+	"Sources/Methods/TEST.4dm": {
+		"left": 783,
+		"top": 529,
+		"width": 968,
+		"height": 502
+	},
+	"Trash/Methods/(vCard_Create_thumbnail).4dm": {
+		"left": 931,
+		"top": 271,
+		"width": 778,
+		"height": 488
+	},
+	"Trash/Methods/(vCard_Create_icon).4dm": {
+		"left": 795,
+		"top": 401,
+		"width": 778,
+		"height": 488
+	},
+	"Sources/Methods/vCard_v3_Create.4dm": {
+		"left": 571,
+		"top": 266,
+		"width": 778,
+		"height": 488
+	}
+}

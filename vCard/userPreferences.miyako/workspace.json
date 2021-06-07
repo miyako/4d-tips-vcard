@@ -1,0 +1,34 @@
+﻿{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483646,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "TEST"
+			}
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483643,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "vCard_v3_escape_image"
+			}
+		},
+		{
+			"type": "toolbox"
+		},
+		{
+			"type": "method",
+			"id": 2147483644,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "vCard_v3_Create"
+			}
+		}
+	]
+}
